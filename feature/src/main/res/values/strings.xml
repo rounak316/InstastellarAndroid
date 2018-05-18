@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="BASE_URL">https://10.150.72.190:8989</string>
+</resources>
